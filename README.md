@@ -5,6 +5,7 @@ Mini Project of GitHub User list. Allow you to search GitHub User list globally
 #### Software Requirements
 * Android Studio 4.0.1
 * Nokia 6 TA-1021 Android 9
+* Support AndroidX and RX
 
 #### Screenshots
 
