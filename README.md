@@ -15,7 +15,7 @@ Mini Project of GitHub User list. Allow you to search GitHub User list globally
 
 *User List*
 <br/>
-<img src="https://raw.githubusercontent.com/affandymurad/kasumi-android/master/docs/android.jpg" width="250" height="400">
+<img src="https://raw.githubusercontent.com/affandymurad/GitHubUserList/master/docs/android.jpg" width="250" height="400">
 <br/>
 
 
