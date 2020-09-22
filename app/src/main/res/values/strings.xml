@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GitHub User</string>
+    <string name="empty">User Empty</string>
+    <string name="search">Search</string>
+    <string name="hint">Search GitHub User</string>
+    <string name="error">You must fill the search field!</string>
+</resources>
