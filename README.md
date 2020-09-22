@@ -1,4 +1,4 @@
-# B-movie Android
+# GitHub User Android
 Mini Project of GitHub User list. Allow you to search GitHub User list globally
 
 
